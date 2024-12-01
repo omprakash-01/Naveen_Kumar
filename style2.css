@@ -1,0 +1,23 @@
+/* ! group */
+/* p,h1,div{
+    background-color: red;
+} */
+ h1:hover{
+    background-color: pink;
+ }
+ .para:hover{
+    font-size: 25px;
+    text-decoration: underline;
+    background-color: black;
+    color: white;
+    text-align: center;
+ }
+a:link{
+    color: aqua;
+}
+a:active{
+    color: orange;
+}
+a:visited{
+    background-color: blue;
+}

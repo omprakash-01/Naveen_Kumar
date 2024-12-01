@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.one {
+    width: 500px; /* Set the desired width */
+    height: 500px; /* Set the desired height */
+    background-image: url("/download.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    background: url("/download.jpeg") no-repeat cover center;
+
+    /* border-width: 10px;
+    border-color: #000;
+    border-style: solid; */
+     border: 10px #000 solid;
+    /* border-radius: 10px;  */
+    border-radius: 90%;
+    text-align: center;
+    margin:auto;
+
+}
+span{
+    background-color: red;
+    /* display: block; */
+}
+p{
+    background-color: green;
+    /* display: inline; */
+    color:white;
+    /* display: inline-block; */
+    /* display: flex; */
+    display: none;
+}

@@ -1,0 +1,17 @@
+h1{
+    background-color: red;
+    color:white;
+    text-align: center;
+}
+/* Simple */
+.one{
+    background-color: #779900;
+    color: #ffffff;
+}
+.two{
+    background-color: #000;
+    color:#fff
+}
+.three{
+    background-color: rgb(182, 30, 30);
+}
